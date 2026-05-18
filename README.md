@@ -63,15 +63,15 @@ O objetivo deste projeto é aplicar tecnologia em uma necessidade real de gestã
 
 ### Painel geral
 
-Imagem será adicionada em breve.
+![Painel geral\](docs/imagens/tela inicial.jgp)
 
 ### Indicadores principais
 
-Imagem será adicionada em breve.
+![Indicadores principais\](docs/imagens/venda por produtos.jpg)
 
 ### Relatórios visuais
 
-Imagem será adicionada em breve.
+![Relatórios visuais\](docs/imagens/venda por categoria.png)
 
 ## Como continuar no VS Code
 
