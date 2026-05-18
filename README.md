@@ -63,15 +63,15 @@ O objetivo deste projeto é aplicar tecnologia em uma necessidade real de gestã
 
 ### Painel geral
 
-![Painel geral](docs/imagens/tela inicial.jpg)
+![Painel geral](docs/imagens/tela_inicial.jpg)
 
 ### Indicadores principais
 
-![Indicadores principais](docs/imagens/venda por produtos.jpg)
+![Indicadores principais](docs/imagens/venda_por_produtos.jpg)
 
 ### Relatórios visuais
 
-![Relatórios visuais](docs/imagens/venda por categoria.PNG)
+![Relatórios visuais](docs/imagens/venda_por_categoria.PNG)
 
 ## Como continuar no VS Code
 
